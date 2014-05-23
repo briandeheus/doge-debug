@@ -16,7 +16,5 @@
         "type": "git",
         "url": "https://github.com/briandeheus/doge-debug.git"
     },
-    "engine": "node >= 0.6.1"    
-
-}
+    "engine": "node >= 0.6.1"
 }
