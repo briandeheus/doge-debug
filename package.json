@@ -1,7 +1,7 @@
 {
 	"name": "doge-debug",
-	"description": "Inject some doge into your logs to detect important messages in a see of strings.",
-	"version": "1.0.1",
+	"description": "Inject some doge into your logs to detect important messages in a sea of strings.",
+	"version": "1.0.2",
 	"keywords": ["debug", "doge", "mail"],
 	"homepage": "https://github.com/briandeheus/doge-debug",
 	"bugs": "https://github.com/briandeheus/doge-debug/issues",
