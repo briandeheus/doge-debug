@@ -2,19 +2,19 @@
 	"name": "doge-debug",
 	"description": "Inject some doge into your logs to detect important messages in a see of strings.",
 	"version": "1.0.1",
-    "keywords": ["debug", "doge", "mail"],
-    "homepage": "https://github.com/briandeheus/doge-debug",
-    "bugs": "https://github.com/briandeheus/doge-debug/issues",
-    "license": "MIT",
-    "contributors":[
-        {
-            "name": "Brian de Heus",
-            "url": "http://twitter.com/briandesu"
-        }
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/briandeheus/doge-debug.git"
-    },
-    "engine": "node >= 0.6.1"
+	"keywords": ["debug", "doge", "mail"],
+	"homepage": "https://github.com/briandeheus/doge-debug",
+	"bugs": "https://github.com/briandeheus/doge-debug/issues",
+	"license": "MIT",
+	"contributors":[
+	{
+		"name": "Brian de Heus",
+		"url": "http://twitter.com/briandesu"
+	}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/briandeheus/doge-debug.git"
+	},
+	"engine": "node >= 0.6.1"
 }
