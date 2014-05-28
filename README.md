@@ -1,6 +1,6 @@
 #doge-debug
 
-Inject some doge into your logs to detect important messages in a see of strings.
+Inject some doge into your logs to detect important messages in a sea of strings.
 
 ###Installation
 `npm install doge-debug`
