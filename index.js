@@ -25,7 +25,8 @@ var doge =
 'LOOK HERE       GOOD DOGE'     + EOL + EOL +
 '        WOW MANY DATA'         + EOL;
 
-var divider = '░░░░░░░░░░░░░░░░░░░░░░░░░░░░░' + EOL +
+var divider =
+'░░░░░░░░░░░░░░░░░░░░░░░░░░░░░' + EOL +
 '░░░░░░░░░░░░░░░░░░░░░░░░░░░░░' + EOL;
 
 module.exports = function () {
