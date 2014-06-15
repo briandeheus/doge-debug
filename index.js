@@ -30,12 +30,11 @@ var divider = '░░░░░░░░░░░░░░░░░░░░░�
 
 module.exports = function () {
 
-	console.log(doge);
-	console.log(divider);
+    console.log(doge);
+    console.log(divider);
 
-	if (arguments.length) {
-		console.log(util.format.apply(this, arguments));
-		console.log(divider);
-	}
-
-}
+    if (arguments.length) {
+        console.log(util.format.apply(this, arguments));
+        console.log(divider);
+    }
+};
