@@ -25,5 +25,8 @@
   "scripts": {
     "test": "node test/index"
   },
-  "author": "Brian de Heus <me@brian.jp>"
+  "author": "Brian de Heus <me@brian.jp>",
+  "directories": {
+    "test": "test"
+  }
 }
