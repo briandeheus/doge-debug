@@ -1,7 +1,7 @@
 {
   "name": "doge-debug",
   "description": "Inject some doge into your logs to detect important messages in a sea of strings.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "keywords": [
     "debug",
     "doge",
